@@ -1,0 +1,24 @@
+{
+  "name": "company-organizer",
+  "version": "1.0.0",
+  "description": "an app to help the owner of a business to manage his employees",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sithSlave/company-organizer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sithSlave/company-organizer/issues"
+  },
+  "homepage": "https://github.com/sithSlave/company-organizer#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql2": "^2.2.5"
+  }
+}
